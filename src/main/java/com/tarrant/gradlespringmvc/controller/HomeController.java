@@ -1,4 +1,4 @@
-package com.tarrant.gradlespringmvc;
+package com.tarrant.gradlespringmvc.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
